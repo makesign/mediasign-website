@@ -1,6 +1,6 @@
 +++
 project_id = "B2"
-title = "Makesign"
+title = "MakeRudiMad"
 subtitle = "Digital Signage for the campus!"
 claim = "Makesign is a digital signage project aimed at motivating students to promote their projects while also learning more about the university's offerings."
 abstract = ""
