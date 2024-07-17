@@ -34,7 +34,3 @@ We hope to motivate more students to promote events or projects and to make them
 
 {{<gallery>}}
 {{</gallery>}}
-
-
-
-{{</section>}}
