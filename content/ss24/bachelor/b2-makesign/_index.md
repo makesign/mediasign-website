@@ -1,19 +1,26 @@
 +++
 project_id = "B2"
-
 title = "Makesign"
-subtitle = "Digital Signage für den IDiA-Makerspace"
+subtitle = "Digital Signage for the campus!"
+claim = "Makesign is a digital signage project aimed at motivating students to promote their projects while also learning more about the university's offerings."
+abstract = ""
 
-claim = "Promote your event or project simply and conveniently throughout the campus!"
-abstract = "Makesign is a digital signage project aimed at motivating students to promote their projects while also learning more about the university's offerings."
+# Properties for displaying the project in the project list
+card_image = "makesign_logo.jpg"
+# card_description is deprecated, will be replaced by abstract/and or claim
+card_description = "" 
 
+# Names are optional, team size is sufficient
 team = ["Rudolfs Spridis", "Nemo Ziener","Hyun Bin Jeoung", "Airon Jasinski","Niklas Aporius"]
 supervisor = ["Prof. Dr. Barne Kleinen", "Martin Holzhauer"]
+draft = false
 
-card_image = "makesign_logo.jpg"
 website_link = ""
 source_link = "https://github.com/makesign"
-draft = false
+
+tags = ['web', 'rails']
+categories = ['Web Technology']
+study_focus = ['Web Technology']
 +++
 
 {{<section title="Overview">}}
@@ -24,6 +31,7 @@ If you have an event or project you want to share or invite people to, the curre
 In collaboration with [Makerspace](https://entrepreneurship.htw-berlin.de/ueber-uns/ideas-in-action-idia/idia-spaces/maker-space/) and [IDiA](https://entrepreneurship.htw-berlin.de/ueber-uns/ideas-in-action-idia/ueber-idia/), we have further developed and integrated a system for graphically displaying the booking system for the machines in Makerspace. This system allows the booking schedule of these machines to be digitally displayed in real-time on digital signage boards, in and around the Makerspace.
 
 {{</section>}}
+
 {{<section title="Future">}}
 
 The technology offers numerous expansion possibilities for the future. 
