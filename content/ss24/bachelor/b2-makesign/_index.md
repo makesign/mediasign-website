@@ -23,6 +23,7 @@ If you have an event or project you want to share or invite people to, the curre
 
 In collaboration with [Makerspace](https://entrepreneurship.htw-berlin.de/ueber-uns/ideas-in-action-idia/idia-spaces/maker-space/) and [IDiA](https://entrepreneurship.htw-berlin.de/ueber-uns/ideas-in-action-idia/ueber-idia/), we have further developed and integrated a system for graphically displaying the booking system for the machines in Makerspace. This system allows the booking schedule of these machines to be digitally displayed in real-time on digital signage boards, in and around the Makerspace.
 
+{{</section>}}
 {{<section title="Future">}}
 
 The technology offers numerous expansion possibilities for the future. 
