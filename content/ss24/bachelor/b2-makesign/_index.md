@@ -1,6 +1,6 @@
 +++
 project_id = "B2"
-title = "MakeRudiMad"
+title = "Makesign"
 subtitle = "Digital Signage for the campus!"
 claim = "Makesign is a digital signage project aimed at motivating students to promote their projects while also learning more about the university's offerings."
 abstract = ""
@@ -32,7 +32,14 @@ In collaboration with [Makerspace](https://entrepreneurship.htw-berlin.de/ueber-
 
 {{</section>}}
 
+{{<section title="Future">}}
 
+The technology offers numerous expansion possibilities for the future. 
+One possible application, for example, would be to use old monitors in the buildings on both campuses to display tram departure and arrival times. The possibilities for our project are only limited by the students' creativity to create content for the screens. 
+
+We hope to motivate more students to promote events or projects and to make them more aware of campus offerings, thereby encouraging them to participate in more university projects and events.
+
+{{</section>}}
 
 {{<gallery>}}
 {{</gallery>}}
